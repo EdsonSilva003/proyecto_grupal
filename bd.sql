@@ -32,8 +32,6 @@ CREATE TABLE usuario_roles (
 
 -- Insertar roles en la tabla roles
 INSERT INTO roles (nombre) VALUES ('ROLE_ADMIN'), ('ROLE_USER');
-INSERT INTO `usuarios`(`id`, `nombre`, `email`, `password`, `imagen`) VALUES ('1','edson','edson@gmailc.com','edson','');
-INSERT INTO `usuario_roles`(`usuario_id`, `rol_id`) VALUES ('1','1');
 -- Eliminar el usuario 'admin' si ya existe
 DROP USER IF EXISTS 'admin'@'localhost';
 FLUSH PRIVILEGES;
