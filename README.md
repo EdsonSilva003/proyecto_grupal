@@ -9,8 +9,7 @@
   * Una vez te asegures haber cargado la bd, abriremos el Visual Studio, abriremos la carpeta scr -> main -> java ->   y con el boton de lado derecho el codigo "RecomendacionesApplication.java" y seleccionaremos }
     la opcion "run java", con esto la aplicacion empieza a correr
   * Para ver la aplicacion corriendo abriremos nuestro navegador y en la barra de busqueda http://localhost:8080/login
-![image](https://github.com/user-attachments/assets/3f448d1e-25d9-4742-b994-7c9aad1f09b3)
-![image](https://github.com/user-attachments/assets/fc2dfd9f-ced3-40a8-8d7e-cdcae7bbaaae)
-![image](https://github.com/user-attachments/assets/7d707d8d-8158-4890-be77-d702bc4d08b4)
-![image](https://github.com/user-attachments/assets/244eb874-cd54-40aa-a6d2-60c8a59e8fad)
-
+![image](https://github.com/user-attachments/assets/7ef9e47a-e511-43e4-9909-d207ad6e77be)
+![image](https://github.com/user-attachments/assets/a1e90e21-cfa3-4f55-944b-e933ff27e611)
+![image](https://github.com/user-attachments/assets/b15c1c45-0bb7-465c-9f3d-fc49a594e7d8)
+![image](https://github.com/user-attachments/assets/e8c9ae53-0030-4d84-ab31-acea2a8ead7d)
