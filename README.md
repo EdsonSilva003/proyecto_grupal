@@ -10,6 +10,6 @@
     la opcion "run java", con esto la aplicacion empieza a correr
   * Para ver la aplicacion corriendo abriremos nuestro navegador y en la barra de busqueda http://localhost:8080/login
 ![image](https://github.com/user-attachments/assets/7ef9e47a-e511-43e4-9909-d207ad6e77be)
-![image](https://github.com/user-attachments/assets/a1e90e21-cfa3-4f55-944b-e933ff27e611)
+![image](https://github.com/user-attachments/assets/f5f9aaf0-dc35-4368-ae78-64c9964fb5f4)
 ![image](https://github.com/user-attachments/assets/b15c1c45-0bb7-465c-9f3d-fc49a594e7d8)
 ![image](https://github.com/user-attachments/assets/e8c9ae53-0030-4d84-ab31-acea2a8ead7d)
